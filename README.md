@@ -1,6 +1,3 @@
-# smh-faeterj-frontEnd
-Trata-se de um site para avaliação da disciplina SMH(Sistema de Multimidia e Hipermidia) da Faeterj - Faculdade de Educação Tecnológica do Estado Rio de Janeiro. 
-
 # Avaliação SMH - Sistema de Multimídia e Hipermídia
 
 Este é um projeto de site desenvolvido em React e Next.js para a disciplina SMH (Sistema de Multimídia e Hipermídia) da Faeterj - Faculdade de Educação Tecnológica do Estado do Rio de Janeiro.
