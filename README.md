@@ -22,34 +22,6 @@ Certifique-se de ter o Node.js e o npm (ou yarn) instalados em sua máquina. Em 
 3. Execute o comando `npm run dev` (ou `yarn dev`) para iniciar o servidor de desenvolvimento.
 4. Acesse o site em seu navegador através do endereço `http://localhost:3000`.
 
-## Estrutura do Projeto
-
-A estrutura de diretórios deste projeto é a seguinte:
-
-meu-projeto/
-├── components/
-│ ├── Header.js
-│ ├── Footer.js
-│ └── ...
-├── pages/
-│ ├── index.js
-│ ├── pagina1.js
-│ ├── pagina2.js
-│ ├── pagina3.js
-│ ├── pagina4.js
-│ └── pagina5.js
-├── public/
-│ ├── images/
-│ │ └── grupo.png
-│ └── videos/
-│ └── grupo.mp4
-├── styles/
-│ ├── global.css
-│ └── ...
-├── ...
-├── package.json
-├── next.config.js
-└── ...
 
 ## Tecnologias Utilizadas
 
